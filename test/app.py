@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Date    : 2016-05-18 15:40:15
-# @Author  : zpl (pinlin.zhang@dinglicom.com)
-# @Link    : http://www.dinglicom.com
+# @Author  : zpl (zh_octopus@qq.com)
+# @Link    : 
 # @Version : 2.7.11
 
 from flask import Flask
