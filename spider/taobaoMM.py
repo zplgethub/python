@@ -29,4 +29,4 @@ class Spider:
             print item[0],item[1],item[2],item[3],item[4]
  
 spider = Spider()
-spider.getContents(2)
+spider.getContents(1)
