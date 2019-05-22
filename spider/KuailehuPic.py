@@ -34,7 +34,7 @@ class Spider:
                    'Referer' : 'http://www.kuailehu.cn/index.do'}
 
         #构造post数据
-        postData = {'account' : '13527211121','pass' : '12345678', time.time() : 'date'}
+        postData = {'account' : '135****1121','pass' : '****', time.time() : 'date'}
         postData = urllib.urlencode(postData)
 
         request = urllib2.Request(loginurl, postData, headers)
